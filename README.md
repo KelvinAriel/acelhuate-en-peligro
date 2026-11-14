@@ -2,29 +2,26 @@
 
 Portal educativo universitario sobre la contaminación, los impactos y la recuperación del río Acelhuate en El Salvador.
 
-## Características
+## Contenido
 
-- Diseño responsivo para computadora, tableta y teléfono.
-- Navegación accesible y barra de progreso de lectura.
-- Contenido académico organizado por temas.
-- Infografías, fotografía documental y videos educativos.
-- Cuestionario interactivo con retroalimentación.
-- Fuentes institucionales y referencias verificables.
-- Sin dependencias de compilación: HTML, CSS y JavaScript.
+- Inicio y contexto de cuenca.
+- Problemática ambiental e inventario de descargas.
+- Causas e impactos.
+- Ruta de recuperación y soluciones.
+- Biblioteca multimedia y recursos oficiales.
+- Evaluación interactiva de diez preguntas.
+- Metodología, créditos y referencias en APA 7.
 
-## Publicación
+## Tecnologías
 
-El sitio está preparado para GitHub Pages. La página principal es `index.html` y no requiere proceso de compilación.
+Sitio estático responsivo desarrollado con HTML, CSS y JavaScript, publicado mediante GitHub Pages.
 
-## Autoría académica
+## Proyecto académico
 
-**Universidad de El Salvador**  
-Facultad de Ciencias Naturales y Matemática · Escuela de Matemática  
-Licenciatura en Informática Educativa, modalidad a distancia  
-Asignatura: Educación Ambiental y Cambio Climático · Ciclo II-2026  
-Docente: M.Sc. Isis Ivania Chávez Carrillo  
-Integrantes: Kelvin Ariel Martínez Lara y Andrea Nicole Azucena Blandón
+Universidad de El Salvador · Licenciatura en Informática Educativa · Educación Ambiental y Cambio Climático · Ciclo II-2026.
 
-## Créditos
+Integrantes: Kelvin Ariel Martínez Lara y Andrea Nicole Azucena Blandón.
 
-Las fotografías documentales conservan la atribución y licencia indicada en el sitio. Las ilustraciones e infografías conceptuales generadas con apoyo de inteligencia artificial están identificadas como tales y no representan mediciones ni lugares exactos.
+## Sitio publicado
+
+https://kelvinariel.github.io/acelhuate-en-peligro/
